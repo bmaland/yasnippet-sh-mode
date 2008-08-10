@@ -1,0 +1,6 @@
+# -*- mode: yasnippet -*-
+#name : until ... done
+# --
+until [[ ${1:condition} ]]; do
+  ${0:statements}
+done

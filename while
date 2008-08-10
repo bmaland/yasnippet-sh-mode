@@ -1,0 +1,6 @@
+# -*- mode: yasnippet -*-
+#name : while ... done
+# --
+while [[ ${1:condition} ]]; do
+  ${0:statements}
+done
