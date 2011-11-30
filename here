@@ -1,5 +1,6 @@
 # -*- mode: yasnippet -*-
 #name : Here Document
+# key: here
 # --
 <<${1:TOKEN}
 $0

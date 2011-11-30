@@ -1,5 +1,6 @@
 # -*- mode: yasnippet -*-
 #name : if ... fi
+# key: if
 # --
 if ${1:condition}; then
   ${0:statements}
